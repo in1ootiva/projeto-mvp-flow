@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# projeto-mvp-flow
+
+Projeto MVP Flow - React + TypeScript + Vite
 
 Este projeto foi criado com Vite, React e TypeScript.
 
@@ -22,4 +24,3 @@ npm run dev
 ```
 
 3. Abra [http://localhost:5173](http://localhost:5173) no seu navegador.
-
